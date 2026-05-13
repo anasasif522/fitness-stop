@@ -24,9 +24,7 @@ A modern fitness website designed to inspire healthy living and guide users towa
 
  🚀 Live Preview
 
-> *(If you deploy it using GitHub Pages, add link here)*  
-Example:  
-`https://your-username.github.io/fitness-stop/`
+`https://anasasif522.github.io/fitness-stop/`
 
 
 
